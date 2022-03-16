@@ -1,0 +1,38 @@
+.copy_right_footer{
+    position: fixed;
+    color: rgb(0, 255, 200);
+    bottom: 0px;
+    width: 200px;
+    font-size: 18px;
+    background-color: rgb(0, 0, 0) ;
+    line-height: 3;
+    text-align: center;
+    text-shadow:5px 5px 5px rgb(0, 238, 255) ;
+
+}
+#this_div{
+    text-align: center;
+    margin-left: 555px;
+    margin-bottom: 15px;
+}
+#top_div{
+   background-color: blue;
+   color: rgb(255, 255, 255);
+   text-align: center;
+   font-family: 'Teko', sans-serif;
+   font-weight: bold;
+   letter-spacing:1px;
+   font-size: larger;
+}
+body{
+    background: linear-gradient(rgb(0, 255, 0) ,#03d3fc , #0367fc );
+}
+button{
+    border: #03d3fc;
+    height: 50px;
+    width: 70px;
+    border-radius: 50px;
+    font-weight: bold;
+    color: aquamarine;
+    background-color: blue;
+}
